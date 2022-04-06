@@ -67,7 +67,7 @@ section .container .box
 {
     position: relative;
     width: 350px;
-    padding: 40px;
+    padding: 60px;
     background: white;
     box-shadow: 0 5px 15px rgba(0,0,0,.1);
     border-radius: 4px;
@@ -76,6 +76,7 @@ section .container .box
     overflow: hidden;
     text-align: center;
     align-items: center;
+    
 }
 section .container .box::before{
     content:'';
