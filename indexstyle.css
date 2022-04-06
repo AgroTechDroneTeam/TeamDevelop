@@ -56,12 +56,14 @@ section
     height: 100%;
     align-items: center;
     display: flex;
+    z-index: -1;
 }
 section .container{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    padding: 180px;
 }
 section .container .box
 {
